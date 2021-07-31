@@ -8,7 +8,7 @@
 
 -jus for fun, diving into the code world
 
-![godwin pic](leesin.jpg)
+![godwin pic](leesin.jfif)
 
 
 
