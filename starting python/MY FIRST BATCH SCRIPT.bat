@@ -1,0 +1,2 @@
+ECHO "HELLO world"
+pause
