@@ -1,6 +1,6 @@
 # its Godwin here!!👋
 ## what im doing currently
-[![Godwin's stats](https://github-readme-stats.vercel.app/api?username=Godryzewick&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Godwin's stats](https://github-readme-stats.vercel.app/api?username=Godryzewick&theme=highcontrast)]
 
 - learning python
 
@@ -11,7 +11,7 @@
 - jus for fun, diving into the code world
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godryzewick&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godryzewick&layout=compact&theme=highcontrast)]
 
 
 ![godwin pic](leesin.jfif)
